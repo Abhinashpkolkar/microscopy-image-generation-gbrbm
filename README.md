@@ -16,6 +16,44 @@ This project aims to learn the underlying distribution of microscopy image patch
 - Microscopy image generation
 - Quantitative performance evaluation
 
+## Project Pipeline
+
+```text
+Blood Serum Microscopy Images
+
+↓
+
+Data Augmentation
+
+↓
+
+Image Preprocessing
+
+↓
+
+Patch Extraction
+
+↓
+
+Dataset Preparation
+
+↓
+
+GB-RBM Training
+
+↓
+
+Image Reconstruction
+
+↓
+
+Microscopy Patch Generation
+
+↓
+
+Performance Evaluation
+```
+
 ## Evaluation Metrics
 
 - Mean Squared Error (MSE)
