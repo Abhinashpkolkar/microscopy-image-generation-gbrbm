@@ -83,6 +83,13 @@ microscopy-image-generation-gbrbm/
 ├── dataset/
 └── results/
 ```
+## Results
+
+Representative outputs are available in the `results/` folder.
+
+### Generated Microscopy Image
+
+![Generated Microscopy Image](results/generated_image.png)
 
 ## Future Improvements
 
